@@ -4,7 +4,7 @@ import subprocess
 from telebot.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 # Bot configuration
-API_TOKEN = "7774560400:AAGwdc2hXa78GQsSKpbnmfktQaBaEugN2A0"
+API_TOKEN = ""
 CHANNEL_USERNAME = "@ShadowHackr"  # Channel username
 OWNER_ID = 972326806  # Your User ID as the bot owner
 
